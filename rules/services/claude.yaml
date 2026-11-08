@@ -1,0 +1,8 @@
+# 服务: 🎯 Claude
+# 策略组由主配置在引用时指定；本文件不含策略定义
+domain_set:
+- cdn.usefathom.com
+- servd-anthropic-website.b-cdn.net
+domain_suffix_set:
+- anthropic.com
+- claude.ai

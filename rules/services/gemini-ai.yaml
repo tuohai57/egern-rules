@@ -1,0 +1,19 @@
+# 服务: 🎯 Gemini
+# 策略组由主配置在引用时指定；本文件不含策略定义
+domain_set:
+- ai.google.dev
+- aistudio.google.com
+- alkalimakersuite-pa.clients6.google.com
+- makersuite.google.com
+domain_suffix_set:
+- apis.google.com
+- bard.google.com
+- colab
+- deepmind.com
+- deepmind.google
+- developerprofiles
+- gemini.google.com
+- generativeai.google
+- generativelanguage
+- generativelanguage.googleapis.com
+- proactivebackend-pa.googleapis.com
