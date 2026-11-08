@@ -1,0 +1,20 @@
+# proxy/developer.yaml · 策略由主配置引用时指定
+domain_suffix_set:
+- bitbucket.org
+- cloudflare.com
+- crates.io
+- docker.com
+- docker.io
+- github.com
+- github.io
+- githubassets.com
+- githubusercontent.com
+- gitlab.com
+- go.dev
+- huggingface.co
+- netlify.com
+- npmjs.com
+- npmjs.org
+- pypi.org
+- stackoverflow.com
+- vercel.com

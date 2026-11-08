@@ -1,0 +1,16 @@
+# direct/alipay-ali.yaml · 策略由主配置引用时指定
+domain_set:
+- amdc-sibling.alipay.com.cn
+- amdc.alipay.com
+domain_suffix_set:
+- 1688.com
+- alibaba.com
+- alipay.com
+- alipay.com.cn
+- alipay.com.hk
+- alipaydns.com
+- alipayhk.com
+- alipayobjects.com
+- aliyun.com
+- taobao.com
+- tmall.com

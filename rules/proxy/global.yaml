@@ -1,0 +1,37 @@
+# proxy/global.yaml · 策略由主配置引用时指定
+domain_suffix_set:
+- apnews.com
+- archive.org
+- axios.com
+- bbc.co.uk
+- bbc.com
+- bloomberg.com
+- businessinsider.com
+- cnbc.com
+- cnn.com
+- dw.com
+- economist.com
+- engadget.com
+- figma.com
+- forbes.com
+- ft.com
+- medium.com
+- nikkei.com
+- notion.site
+- notion.so
+- npr.org
+- nytimes.com
+- quora.com
+- reuters.com
+- scmp.com
+- slack.com
+- techcrunch.com
+- theatlantic.com
+- theguardian.com
+- theverge.com
+- time.com
+- wikimedia.org
+- wikipedia.org
+- wired.com
+- wsj.com
+- zoom.us

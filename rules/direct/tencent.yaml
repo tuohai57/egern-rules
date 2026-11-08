@@ -1,0 +1,10 @@
+# direct/tencent.yaml · 策略由主配置引用时指定
+domain_set:
+- localhost.ptlogin2.qq.com
+domain_suffix_set:
+- gtimg.cn
+- qpic.cn
+- qq.com
+- tencent.com
+- wechat.com
+- weixin.qq.com

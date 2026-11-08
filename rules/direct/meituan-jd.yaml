@@ -1,0 +1,7 @@
+# direct/meituan-jd.yaml · 策略由主配置引用时指定
+domain_suffix_set:
+- 360buyimg.com
+- dianping.com
+- jd.com
+- meituan.com
+- meituan.net

@@ -1,0 +1,35 @@
+# direct/bytedance.yaml · 策略由主配置引用时指定
+domain_set:
+- httpdns.volcengine.com
+- httpdns.volcengineapi.com
+- mssdk-bu.bytedance.com
+- mssdk.bytedance.com
+domain_suffix_set:
+- amemv.com
+- byteimg.com
+- dig.bdurl.net
+- doubao.com
+- douyin.com
+- douyinact.com
+- douyinact.net
+- douyincdn.com
+- douyinclips.com
+- douyinliving.com
+- douyinmusicclips.com
+- douyinmusicvideo.com
+- douyinpic.com
+- douyinshortvideo.com
+- douyinstatic.com
+- douyinvideo.net
+- douyinvod.com
+- httpdns.bdurl.net
+- idouyinpic.com
+- idouyinstatic.com
+- idouyinvod.com
+- iesdouyin.com
+- iesdouyin.net
+- isnssdk.com
+- ixigua.com
+- ixiguavideo.com
+- pstatp.com
+- snssdk.com

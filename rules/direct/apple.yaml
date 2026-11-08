@@ -1,0 +1,13 @@
+# direct/apple.yaml · 策略由主配置引用时指定
+domain_set:
+- appleid.apple.com
+- appleid.apple.com.cn
+- gateway.icloud.com
+- gspe1-ssl.ls.apple.com
+- guzzoni.apple.com
+- idmsa.apple.com
+- idmsa.apple.com.cn
+- setup.icloud.com
+domain_suffix_set:
+- icloud.com
+- icloud.com.cn

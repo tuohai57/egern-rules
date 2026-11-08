@@ -1,0 +1,10 @@
+# proxy/social.yaml · 策略由主配置引用时指定
+domain_suffix_set:
+- bsky.app
+- kakao.com
+- mastodon.social
+- pinterest.com
+- signal.org
+- snapchat.com
+- tumblr.com
+- viber.com
